@@ -24,7 +24,7 @@ function start() { // Inicio da função start()
     var TECLA = {
         W: 87,
         S: 83,
-        D: 68
+        D: 68,
         }
     var somDisparo=document.getElementById("somDisparo");
     var somExplosao=document.getElementById("somExplosao");
